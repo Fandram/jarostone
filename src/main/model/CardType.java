@@ -1,5 +1,5 @@
 package main.model;
 
-public enum Type {
+public enum CardType {
     MINION
 }

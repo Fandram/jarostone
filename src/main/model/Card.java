@@ -16,6 +16,6 @@ public class Card {
     private int health;
     private Mechanic[] mechanic;
     private Rarity rarity;
-    private Set set;
-    private Type type;
+    private CardSet set;
+    private CardType type;
 }

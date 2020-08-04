@@ -1,5 +1,5 @@
 package main.model;
 
-public enum Set {
+public enum CardSet {
     EXPERT
 }
